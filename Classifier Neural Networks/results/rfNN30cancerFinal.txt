@@ -1,0 +1,5 @@
+n_estimators = 30
+Accuracy = 0.79
+
+[[44 21]
+ [ 0 35]]

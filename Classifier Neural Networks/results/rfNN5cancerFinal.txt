@@ -1,0 +1,5 @@
+n_estimators = 5
+Accuracy = 0.87
+
+[[54 11]
+ [ 2 33]]
